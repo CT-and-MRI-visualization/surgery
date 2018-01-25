@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="Injector" version="3.0" targetId="7cabc98ca74e4c4cadb5455cbc9a5292" sideLength="420.000000" topDiameter="118.000000" bottomDiameter="118.000000" sideImage="Injector.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
